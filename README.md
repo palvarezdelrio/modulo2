@@ -1,2 +1,2 @@
-# modulo2
-Este repositorio de prueba del modulo 2  de Henry
+este es el tercer intento de creacion de repositorior readme desde carpeta elegida....proyecto exitoso
+
